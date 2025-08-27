@@ -8,5 +8,9 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+```{r}
+#simple math equation for code chunk practice
+ate = 4*2
+```
 
-
+i expect to include notation of what the code does, a title of the project, and the author of the code
